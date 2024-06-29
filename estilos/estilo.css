@@ -1,0 +1,101 @@
+h1{
+    color:#121414a8;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #e4e7e3;
+    width: 100%;
+   
+    
+    margin: 0;    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-color: #dee6dcd5;
+    width: 100%;
+    height: 100px; 
+    text-align: center;
+    font-size: 80px;
+}
+header section{
+    background-color: #756f67;
+}
+#topMenu{
+    background-color: hsl(160, 38%, 94%);
+    height: 50px;
+   image-resolution: 10px;
+}
+#Promoção{
+    margin-top: 30px;
+    font-size: 60px;
+    text-align: center;
+}
+img{
+    width: 280px;
+}
+footer{
+    height: 250px;
+    width: 100%;
+    background-color: #333333;
+    color: #ffffff;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    margin-block-start: 0;
+    font-size: 20px;
+
+}
+nav ul li{
+    margin-right: 15px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 10px;
+    font-weight: 18;
+
+}
+a{
+    text-decoration: none;
+    color: #1f1a1a;
+}
+main{
+    display:flex;
+   
+}
+#contato{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+article{
+    margin: 60px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+form input{
+    margin: 4px;
+    border-radius: 5px;
+    border-style: solid;
+    height: 25px;
+}
+form label{
+    margin: 4px;
+}
+input textarea{
+    margin: 4px;
+    border-radius: 5px;
+    border-style: solid; 
+}
+ul a:hover{
+    color: burlywood;
+    
+    
+
+}
